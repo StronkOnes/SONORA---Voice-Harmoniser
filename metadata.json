@@ -1,0 +1,6 @@
+{
+  "name": "SONORA HarmonyForge",
+  "description": "Singer-first harmony composition, vocal arrangement, interactive pitch studio, and practice suite.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
